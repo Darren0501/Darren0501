@@ -26,9 +26,8 @@
 
 ### Tech Stack & Tools
 
-<p align="left">
   - Wazuh
   - Splunk
   - WireShark
   - Python
-</p>
+
