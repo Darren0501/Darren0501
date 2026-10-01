@@ -1,31 +1,23 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20[Nama%20Kamu]&fontSize=40&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Hello,%20SI'm%20Darren%20Gavriel%20Suntara&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
-<h1 align="center">[Nama Kamu]</h1>
-<p align="center">[Role/Status singkat, contoh: "Peserta Workshop Git & GitHub | Junior Frontend Enthusiast"]</p>
+<h1 align="center">Darren Gavriel Suntara</h1>
+<p align="center">Cybersecurity Enthusiast</p>
 
 ---
 
-### Details / About Me
-
-- **Pekerjaan Saat ini**: [contoh: Mahasiswa/Karyawan di ...]
-- **Sedang mendalami**: [contoh: React.js, Git & GitHub Workflow]
-- **Target**: [contoh: Menjadi Frontend Developer profesional]
-- **Fun fact**: [isi sesuatu yang unik tentang kamu]
-
----
 
 ### Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/username-kamu" target="_blank">
+  <a href="linkedin.com/in/darren-gavriel-suntara/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/username-kamu" target="_blank">
+  <a href="https://instagram.com/xdrenn" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:email-kamu@example.com">
+  <a href="mailto:darrensuntara0501@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -35,11 +27,7 @@
 ### Tech Stack & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  	![Wazuh](https://shields.io)
 </p>
 
 ---
