@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Hello,%20SI'm%20Darren%20Gavriel%20Suntara&fontSize=40&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Hello,%20I'm%20Darren%20Gavriel%20Suntara&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
 <h1 align="center">Darren Gavriel Suntara</h1>
@@ -27,19 +27,8 @@
 ### Tech Stack & Tools
 
 <p align="left">
-  	![Wazuh](https://shields.io)
+  - Wazuh
+  - Splunk
+  - WireShark
+  - Python
 </p>
-
----
-
-### GitHub Stats (opsional)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<!--
-  Ganti "USERNAME_KAMU" dengan username GitHub kamu.
-  Referensi tool: https://github.com/anuraghazra/github-readme-stats
--->
-
